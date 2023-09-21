@@ -1,0 +1,3 @@
+C:/Users/yadav/CLionProjects/patten_questions/cmake-build-debug/CMakeFiles/patten_questions.dir
+C:/Users/yadav/CLionProjects/patten_questions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yadav/CLionProjects/patten_questions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
